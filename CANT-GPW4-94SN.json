@@ -1,8 +1,8 @@
 {
   "serial": "CANT-GPW4-94SN",
-  "status": "active",
+  "status": "blocked",
   "validoAte": "2026-12-31",
-  "mensagem": null,
-  "emitidoEm": "2026-10-22T23:50:06Z",
-  "assinatura": "fSZR+5ThdhY8nTacHEGTDPLcoqi7cHfgIoMdP9tRXXaTz7eGnGTHHQEOHbArtFZZeq9TR9QQNYu3Vfozu7YU8w=="
+  "mensagem": "Seu contrato venceu, por favor efetue o pagamento",
+  "emitidoEm": "2026-10-22T23:52:56Z",
+  "assinatura": "WlfVvHA3cRBaI8Pc5fFfHh1qMgLEMDQ9Jk3OVbJCP3l46s6AEwgtHhCsS4k5D7x7IHI/dqkKVyCRRi+YzRtm7A=="
 }
